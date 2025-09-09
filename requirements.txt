@@ -1,0 +1,5 @@
+mlx
+mlx-lm
+fastapi
+uvicorn
+python-multipart
