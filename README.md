@@ -51,3 +51,14 @@ To run the server app, execute the following command:
 ```bash
 uvicorn main:app --reload
 ```
+
+## Result
+
+The project will look something like this:
+
+<img width="998" height="1050" alt="image" src="https://github.com/user-attachments/assets/f56078ad-51d5-4006-83a3-c7a398caa4d9" />
+
+
+With the server running:
+
+<img width="798" height="500" alt="image" src="https://github.com/user-attachments/assets/523804fb-87fe-43d6-a8bf-4f21d19c2b2b" />
