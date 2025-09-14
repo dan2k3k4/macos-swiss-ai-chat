@@ -2,15 +2,16 @@
 
 ## Python AI Model Project
 
-This project demonstrates how to use the `mlx-lm` library to run a Hugging Face model for text generation on MacOS.
+This project demonstrates how to use the `mlx-lm` library to run a Hugging Face model for text generation on macOS.
 
-As an example, it is using the Swiss LLM, Apertus.
+It currently uses [Apertus-8B-Instruct-2509-8bit](https://huggingface.co/mlx-community/Apertus-8B-Instruct-2509-8bit), which was converted from [swiss-ai/Apertus-8B-Instruct-2509](https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509).
 
 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
+- A Mac with Apple silicon that supports [mlx-lm](https://github.com/ml-explore/mlx-lm)
 - Python 3.x
 - Node.js (v22+)
 - npm (v11+)
