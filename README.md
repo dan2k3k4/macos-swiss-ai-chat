@@ -18,9 +18,9 @@ Before you begin, ensure you have the following installed:
 
 ## Getting Started
 
-1.  **Clone the repository:**
+1.  **Clone the repository (e.g. with SSH):**
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:dan2k3k4/macos-swiss-ai-chat.git
     cd macos-swiss-ai-chat
     ```
 
